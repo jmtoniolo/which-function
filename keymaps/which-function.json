@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+      "ctrl-alt-o": "which-function:toggle",
+      "ctrl-alt-d": "which-function:debug"
+  }
+}
