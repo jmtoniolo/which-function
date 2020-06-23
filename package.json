@@ -2,12 +2,12 @@
   "name": "which-function",
   "main": "./lib/which-function",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Display the nearest function above your cursor in the status bar.",
   "keywords": [
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/which-function",
+  "repository": "https://github.com/jmtoniolo/which-function",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
