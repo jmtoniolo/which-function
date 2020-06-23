@@ -2,7 +2,7 @@
   "name": "which-function",
   "main": "./lib/which-function",
   "version": "0.2.0",
-  "description": "Display the nearest function above your cursor in the status bar.",
+  "description": "Display current function scope.",
   "keywords": [],
   "activationCommands": {},
   "repository": "https://github.com/jmtoniolo/which-function",
