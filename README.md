@@ -1,6 +1,6 @@
 # which-function
 
-*Currently in Beta. Supports Python/Ruby/Pearl. C++ & Java coming soon.*
+*Currently in development. Please report bugs.*
 
 ![which-function demo](https://raw.githubusercontent.com/jmtoniolo/which-function/master/img/cppzoomy.gif) ![which-function demo](https://raw.githubusercontent.com/jmtoniolo/which-function/master/img/pythonzoomy.gif)
 
@@ -13,8 +13,11 @@ which-function is an open sourced extension package for the Atom text editor. Wh
 - Python
 - Ruby
 - Pearl
+- C++
 
 ### language support currently in development
-- *C++*
 - *Java*
+- *Lua*
+- *Javascript*
+- *C#*
 
